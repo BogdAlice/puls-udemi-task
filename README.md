@@ -1,1 +1,1 @@
-# puls-udemi-task
+# pulse-udemi-task
